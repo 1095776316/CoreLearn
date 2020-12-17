@@ -1,0 +1,13 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\bin\Debug\netcoreapp3.1\WhenWaitDemo.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\bin\Debug\netcoreapp3.1\WhenWaitDemo.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\bin\Debug\netcoreapp3.1\WhenWaitDemo.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\bin\Debug\netcoreapp3.1\WhenWaitDemo.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\bin\Debug\netcoreapp3.1\WhenWaitDemo.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\bin\Debug\netcoreapp3.1\WhenWaitDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WhenWaitDemo\obj\Debug\netcoreapp3.1\WhenWaitDemo.genruntimeconfig.cache

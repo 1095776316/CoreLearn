@@ -1,0 +1,13 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.genruntimeconfig.cache

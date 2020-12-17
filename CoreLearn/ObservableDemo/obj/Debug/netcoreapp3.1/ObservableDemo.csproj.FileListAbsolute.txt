@@ -1,0 +1,16 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\ObservableDemo.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\ObservableDemo.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\ObservableDemo.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\ObservableDemo.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\ObservableDemo.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\ObservableDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\System.Reactive.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\bin\Debug\netcoreapp3.1\System.Reactive.xml
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ObservableDemo\obj\Debug\netcoreapp3.1\ObservableDemo.genruntimeconfig.cache
