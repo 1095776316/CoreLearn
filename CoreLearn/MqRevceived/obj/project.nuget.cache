@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNBrTyVx5Rd+PTDJa8/BFI/TK4Q0hWc1sUP3nGggTOcv2RIWHiDbtEAGBGhcLIxU7IGWFldOdZetz6k2LIPwRw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\MqRevceived\\MqRevceived.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\yangsishui\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\yangsishui\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

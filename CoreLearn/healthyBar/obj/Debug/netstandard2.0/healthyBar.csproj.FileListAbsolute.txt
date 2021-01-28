@@ -1,0 +1,9 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\bin\Debug\netstandard2.0\healthyBar.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\bin\Debug\netstandard2.0\healthyBar.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\bin\Debug\netstandard2.0\healthyBar.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\obj\Debug\netstandard2.0\healthyBar.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\obj\Debug\netstandard2.0\healthyBar.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\obj\Debug\netstandard2.0\healthyBar.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\obj\Debug\netstandard2.0\healthyBar.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\obj\Debug\netstandard2.0\healthyBar.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\healthyBar\obj\Debug\netstandard2.0\healthyBar.pdb

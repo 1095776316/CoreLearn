@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sB+emtq1+sahHMM6pnEkoElH4b6z4UbmnG3115tdyyAAe1kVECHHMtLpbijMPQlsucjDIQ9akjiP27c3rEaLPw==",
+  "dgSpecHash": "3ZFNJuqbl3gspAKDAbCykFy/eSlwQOaAnE6CZSI8gq+bDyITqhr1uPhS5wQ8X/mtsn6t6oIXlN0ZLAvPUXkz4A==",
   "success": true,
   "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\WpfApp1\\WpfApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

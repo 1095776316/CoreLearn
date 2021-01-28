@@ -1,0 +1,16 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\MQSend.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\MQSend.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\MQSend.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\MQSend.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\MQSend.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\MQSend.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MQSend\obj\Debug\netcoreapp3.1\MQSend.genruntimeconfig.cache

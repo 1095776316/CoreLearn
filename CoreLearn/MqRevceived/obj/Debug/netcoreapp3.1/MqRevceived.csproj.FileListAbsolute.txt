@@ -1,0 +1,16 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\MqRevceived.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\MqRevceived.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\MqRevceived.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\MqRevceived.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\MqRevceived.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\MqRevceived.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\MqRevceived\obj\Debug\netcoreapp3.1\MqRevceived.genruntimeconfig.cache

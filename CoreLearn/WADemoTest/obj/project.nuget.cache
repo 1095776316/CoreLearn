@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IW8RgkgsUkyRskiSclr1pwIQmoOyMScdK3wcj+u+tgHZh2rMF9yZxBc8FSB7qY+bo+agxzz5CsNQNf9RURq56Q==",
+  "dgSpecHash": "qlhPyBVoRca2S/mp5CKzO+GLrE27KmZ6xFAu9HFB8oi7jHU8qxN2nMhBn02CpMYcUtsQJxYOfVUAFds2M4oX8w==",
   "success": true,
   "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\WADemoTest\\WADemoTest.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,6 @@
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\3.1.10\\microsoft.aspnetcore.mvc.testing.3.1.10.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.10\\microsoft.aspnetcore.testhost.3.1.10.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
-    "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.10\\microsoft.extensions.configuration.3.1.10.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.10\\microsoft.extensions.configuration.abstractions.3.1.10.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.10\\microsoft.extensions.configuration.binder.3.1.10.nupkg.sha512",
@@ -46,7 +45,7 @@
     "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\moq\\4.15.2\\moq.4.15.2.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\yangsishui\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\yangsishui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -110,7 +109,6 @@
     "C:\\Users\\yangsishui\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
-    "C:\\Users\\yangsishui\\.nuget\\packages\\system.runtime.serialization.primitives\\4.1.1\\system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
     "C:\\Users\\yangsishui\\.nuget\\packages\\system.security.cryptography.cng\\4.3.0\\system.security.cryptography.cng.4.3.0.nupkg.sha512",

@@ -1,0 +1,13 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\bin\Debug\netcoreapp3.1\StreamAsync.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\bin\Debug\netcoreapp3.1\StreamAsync.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\bin\Debug\netcoreapp3.1\StreamAsync.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\bin\Debug\netcoreapp3.1\StreamAsync.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\bin\Debug\netcoreapp3.1\StreamAsync.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\bin\Debug\netcoreapp3.1\StreamAsync.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\StreamAsync\obj\Debug\netcoreapp3.1\StreamAsync.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\bin\Debug\netcoreapp3.1\Unit5.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\bin\Debug\netcoreapp3.1\Unit5.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\bin\Debug\netcoreapp3.1\Unit5.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\bin\Debug\netcoreapp3.1\Unit5.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\bin\Debug\netcoreapp3.1\Unit5.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\bin\Debug\netcoreapp3.1\Unit5.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit5\obj\Debug\netcoreapp3.1\Unit5.genruntimeconfig.cache

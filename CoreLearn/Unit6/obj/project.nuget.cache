@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3I3YqIWzGydlN+0/YqRa3R9NmTQg1fUp0JL37RLnqSfCA7Oc65jfGZCTRxOWC+BWxT774VRdVdJ+c8HYKGa40A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\Unit6\\Unit6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

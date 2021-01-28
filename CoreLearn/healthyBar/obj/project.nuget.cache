@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zSojT8IWm+oCowbDGEbJMdsM5w7Nk6KBC3FjW/GKup65gdW3T3D2AeqbeOdXindSQL0pGc6/JDEnZpSyPnoiKg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\healthyBar\\healthyBar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yangsishui\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

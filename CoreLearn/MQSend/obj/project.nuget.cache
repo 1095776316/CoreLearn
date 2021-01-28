@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2BC/tyyEWJ9N8T2ufEFalzRTYlzXPMSQs0Drn771DmN8Ik6OE3Cpb6Pmb3ScbQragYHD//DY94saE36Y40L0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\MQSend\\MQSend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\yangsishui\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\yangsishui\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

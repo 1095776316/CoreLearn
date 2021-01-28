@@ -4,13 +4,13 @@ D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\ProgressDemo.runtimeconfig.dev.json
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\ProgressDemo.dll
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\ProgressDemo.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\System.Reactive.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\System.Reactive.xml
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.csprojAssemblyReference.cache
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.AssemblyInfoInputs.cache
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.AssemblyInfo.cs
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.csproj.CopyComplete
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.dll
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.pdb
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.genruntimeconfig.cache
-D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.csprojAssemblyReference.cache
-D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\System.Reactive.dll
-D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\bin\Debug\netcoreapp3.1\System.Reactive.xml
-D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ProgressDemo\obj\Debug\netcoreapp3.1\ProgressDemo.csproj.CopyComplete

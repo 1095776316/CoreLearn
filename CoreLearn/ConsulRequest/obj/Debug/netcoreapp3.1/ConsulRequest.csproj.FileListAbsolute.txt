@@ -1,0 +1,17 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\ConsulRequest.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\ConsulRequest.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\ConsulRequest.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\ConsulRequest.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\ConsulRequest.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\ConsulRequest.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\Consul.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\bin\Debug\netcoreapp3.1\healthyBar.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ConsulRequest\obj\Debug\netcoreapp3.1\ConsulRequest.genruntimeconfig.cache

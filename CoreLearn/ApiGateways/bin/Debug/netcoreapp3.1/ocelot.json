@@ -1,0 +1,62 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "api/demo/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        },
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "UpstreamPathTemplate": "/api/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    },
+    {
+      "key": "api1",
+      "DownstreamPathTemplate": "/api/demo/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "UpstreamPathTemplate": "api1/{id}",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "Key": "api2",
+      "DownstreamPathTemplate": "/api/demo/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "UpstreamPathTemplate": "/api2/{id}",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  //"Aggregates": [
+  //  {
+  //    "ReRouteKeys": [
+  //      "api1",
+  //      "api2"
+  //    ],
+  //    "UpstreamPathTemplate": "/apis/{id}",
+  //    "Aggregator": "MyDefinedAggregator"
+  //  }
+  //],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000"
+  }
+}

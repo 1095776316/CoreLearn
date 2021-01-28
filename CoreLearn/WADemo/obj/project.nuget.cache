@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Eye+uS5wOxVk64h9QBTL/mjLPRdNYXDHzOj2foxuDAZWLYtog7vvciKjeX/lKLDh2RQVbi53tI+f4AgFvgEfHw==",
+  "dgSpecHash": "UErv53+wBMx3gFWJI+G3ParWQ2qdqft40Z4q9dxq0gTLoZEvyDebxzzXFMdCcWTGmDNw/zxPEnRE33c0JLyetg==",
   "success": true,
   "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\WADemo\\WADemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

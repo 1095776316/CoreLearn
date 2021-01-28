@@ -1,0 +1,16 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\Unit6.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\Unit6.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\Unit6.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\Unit6.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\Unit6.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\Unit6.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\System.Reactive.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\bin\Debug\netcoreapp3.1\System.Reactive.xml
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\Unit6\obj\Debug\netcoreapp3.1\Unit6.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemoPro</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemoPro.Controllers.UserController.Get(System.Int32)">
+            <summary>
+            哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerDemoPro.Controllers.UserController.GetJwt(SwaggerDemoPro.TokenModel)">
+            <summary>
+            GetJwt
+            </summary>
+            <param name="tokenModel">tokenModel</param>
+            <returns></returns>
+        </member>
+        <member name="P:SwaggerDemoPro.TokenModel.ID">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:SwaggerDemoPro.TokenModel.Name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:SwaggerDemoPro.TokenModel.Phone">
+            <summary>
+            手机
+            </summary>
+        </member>
+        <member name="P:SwaggerDemoPro.TokenModel.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:SwaggerDemoPro.TokenModel.Sub">
+            <summary>
+            身份
+            </summary>
+        </member>
+    </members>
+</doc>
