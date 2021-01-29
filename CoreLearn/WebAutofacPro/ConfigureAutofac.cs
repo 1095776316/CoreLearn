@@ -12,9 +12,7 @@ namespace WebAutofacPro
     {
         protected override void Load(ContainerBuilder builder)
         {
-            builder.RegisterType<LogInterceptor>();
-            builder.RegisterType<MyInterceptor>(); 
-            builder.RegisterType<TestService>().As<ITestService>().AsImplementedInterfaces().InstancePerLifetimeScope().EnableInterfaceInterceptors().InterceptedBy(typeof(LogInterceptor));
+            builder.RegisterType<TestService>().As<ITestService>().InstancePerLifetimeScope();
             base.Load(builder);
         }
     }

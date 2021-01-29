@@ -10,3 +10,4 @@ D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netc
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.dll
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.pdb
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.genruntimeconfig.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.csprojAssemblyReference.cache

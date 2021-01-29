@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,10 +20,18 @@ namespace WebAutofacPro
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+            .ConfigureLogging((context, loggingBuilder) =>
+            {
+                loggingBuilder.ClearProviders();
+            })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
                 })
+            .UseSerilog((context, configuration) =>
+            {
+                configuration.ReadFrom.Configuration(context.Configuration).Enrich.FromLogContext();
+            })
             .UseServiceProviderFactory(new AutofacServiceProviderFactory());
     }
 }

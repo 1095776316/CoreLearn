@@ -1,0 +1,38 @@
+2021-01-29 16:30:39.328 +08:00 [WRN] LogWarning
+2021-01-29 16:30:39.398 +08:00 [FTL] LogCritical
+2021-01-29 16:30:39.398 +08:00 [WRN] LogWarning
+2021-01-29 16:33:16.586 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-01-29 16:33:16.598 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:63920/weatherforecast  
+2021-01-29 16:33:16.616 +08:00 [INF] Hosting environment: Development
+2021-01-29 16:33:16.616 +08:00 [INF] Content root path: D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro
+2021-01-29 16:33:16.634 +08:00 [INF] Executing endpoint 'WebAutofacPro.Controllers.WeatherForecastController.Get (WebAutofacPro)'
+2021-01-29 16:33:16.647 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Object Get() on controller WebAutofacPro.Controllers.WeatherForecastController (WebAutofacPro).
+2021-01-29 16:33:16.659 +08:00 [INF] LogInformation
+2021-01-29 16:33:16.659 +08:00 [WRN] LogWarning
+2021-01-29 16:33:16.659 +08:00 [FTL] LogCritical
+2021-01-29 16:33:16.659 +08:00 [DBG] LogDebug
+2021-01-29 16:33:16.662 +08:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-01-29 16:33:16.675 +08:00 [INF] Executed action WebAutofacPro.Controllers.WeatherForecastController.Get (WebAutofacPro) in 15.0583ms
+2021-01-29 16:33:16.677 +08:00 [INF] Executed endpoint 'WebAutofacPro.Controllers.WeatherForecastController.Get (WebAutofacPro)'
+2021-01-29 16:33:16.683 +08:00 [INF] Request finished in 87.4062ms 200 application/json; charset=utf-8
+2021-01-29 16:38:58.582 +08:00 [ERR] LogWarning
+2021-01-29 16:39:11.656 +08:00 [ERR] you object is null.
+2021-01-29 16:39:48.899 +08:00 [ERR]    at WebAutofacPro.Controllers.WeatherForecastController.Get() in D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\Controllers\WeatherForecastController.cs:line 29
+2021-01-29 16:40:42.448 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebAutofacPro.Controllers.WeatherForecastController.Get() in D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\Controllers\WeatherForecastController.cs:line 33
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)

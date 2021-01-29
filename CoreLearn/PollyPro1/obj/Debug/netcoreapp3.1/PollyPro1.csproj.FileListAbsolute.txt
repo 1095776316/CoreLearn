@@ -1,0 +1,16 @@
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\PollyPro1.exe
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\PollyPro1.deps.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\PollyPro1.runtimeconfig.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\PollyPro1.runtimeconfig.dev.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\PollyPro1.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\PollyPro1.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.pdb
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\obj\Debug\netcoreapp3.1\PollyPro1.genruntimeconfig.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\PollyPro1\bin\Debug\netcoreapp3.1\Castle.Core.dll
