@@ -22,19 +22,16 @@ namespace HouseMediatRManage
 
         static async Task Main(string[] args)
         {
-            int id = Thread.CurrentThread.ManagedThreadId;
-            Console.WriteLine(id);
-            await GetAsync();
-            //var services = new ServiceCollection();
-            //services.AddMediatR(typeof(Program).Assembly);
-            //services.AddScoped<ILogger, Logger>();
-            //services.AddScoped<IData, Data>();
-            //var serviceProvider = services.BuildServiceProvider();
-            //var mdeiator = serviceProvider.GetService<IMediator>();
-            //int response = await mdeiator.Send(new MyRequestMsg() { MsgType = "好消息" });
-            //await mdeiator.Publish(new UserAdd() { Name = "三三" });
-            //Console.WriteLine($"{response}");
-            //Console.ReadKey();
+            var services = new ServiceCollection();
+            services.AddMediatR(typeof(Program).Assembly);
+            services.AddScoped<ILogger, Logger>();
+            services.AddScoped<IData, Data>();
+            var serviceProvider = services.BuildServiceProvider();
+            var mdeiator = serviceProvider.GetService<IMediator>();
+            int response = await mdeiator.Send(new MyRequestMsg() { MsgType = "好消息" });
+            await mdeiator.Publish(new UserAdd() { Name = "三三" });
+            Console.WriteLine($"{response}");
+            Console.ReadKey();
         }
     }
 
