@@ -9,7 +9,7 @@ namespace HouseMediatRManage
 {
     class Program
     {
-        public  static async Task GetAsync()
+        public static async Task GetAsync()
         {
             int id = Thread.CurrentThread.ManagedThreadId;
             Console.WriteLine(id);

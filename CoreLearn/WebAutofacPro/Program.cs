@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebAutofacPro.CustomConfiguration;
 
 namespace WebAutofacPro
 {
@@ -20,6 +21,9 @@ namespace WebAutofacPro
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+            .ConfigureHostConfiguration(builder=> {
+                builder.AddQueryStringFile("hhhh.config");
+            })
             .ConfigureLogging((context, loggingBuilder) =>
             {
                 loggingBuilder.ClearProviders();

@@ -1,5 +1,3 @@
-D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\WebAutofacPro.exe
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\WebAutofacPro.deps.json
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\WebAutofacPro.runtimeconfig.json
@@ -48,3 +46,7 @@ D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\hhhh.Development.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\WebAutofacPro\bin\Debug\netcoreapp3.1\hhhh.config

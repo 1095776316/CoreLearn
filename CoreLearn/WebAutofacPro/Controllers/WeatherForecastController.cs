@@ -30,7 +30,7 @@ namespace WebAutofacPro.Controllers
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex.InnerException.StackTrace);
+                _logger.LogError(ex.Message);
             }
             
             var data= new { g1 = _service.No, g2 = _service2.No,u3= _unitTest.Get() };
