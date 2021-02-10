@@ -11,3 +11,5 @@ D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ExpressionConsol\obj\De
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ExpressionConsol\obj\Debug\netcoreapp3.1\ExpressionConsol.pdb
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ExpressionConsol\obj\Debug\netcoreapp3.1\ExpressionConsol.genruntimeconfig.cache
 D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ExpressionConsol\obj\Debug\netcoreapp3.1\ExpressionConsol.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ExpressionConsol\bin\Debug\netcoreapp3.1\SQLinq.dll
+D:\Users\yangsishui\Documents\GitHub\CoreLearn\CoreLearn\ExpressionConsol\obj\Debug\netcoreapp3.1\ExpressionConsol.csproj.CopyComplete

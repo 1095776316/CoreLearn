@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "b7hakIcBb7GgRnIkwNKIxhtXoIgxHBr9imF3zGmYhzj6pjg91y60TGOl+71pm66bsgyRDngJfgSeY0SBVSiU2g==",
+  "dgSpecHash": "GhGM4WUNhiWdGNBhtdmVL6Igj/KDCvQ4k8BBIATZ2Wz9sgWlf9tbOLOyiieU4X5yCqziAlvAwRxzz4TsBteNgQ==",
   "success": true,
   "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\ExpressionConsol\\ExpressionConsol.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\sqlinq\\2.0.0\\sqlinq.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETCoreApp,Version=v3.1”还原包“SQLinq 2.0.0”。此包可能与项目不完全兼容。",
+      "libraryId": "SQLinq",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
