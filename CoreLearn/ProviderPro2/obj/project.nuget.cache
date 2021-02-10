@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VN7whUnPaavBOZKCho0gS9SbgCvlb3wCQ7b5jzeiB9x1v2CiM0CZx+82K2Nv0EATg7ees9vCEq8PTpPhBSvw+A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\yangsishui\\Documents\\GitHub\\CoreLearn\\CoreLearn\\ProviderPro2\\ProviderPro2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangsishui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
